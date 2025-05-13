@@ -15,7 +15,7 @@ A modern, interactive web application for exploring user profiles with integrate
 
 ## Live Demo
 
-Check out the live demo: [Profile Map Explorer](https://whimsical-babka-e8f10f.netlify.app)
+Check out the live demo: [Profile Map Explorer](https://bynry-assignment-jasraj.netlify.app/)
 
 ## Tech Stack
 
