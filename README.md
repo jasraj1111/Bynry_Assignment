@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Your Name - Jasraj Shendge
 Email ID: jasrajshen2020@gmail.com
 
-Project Link: [https://github.com/yourusername/profile-map-explorer](https://github.com/jasraj1111/Bynry_Assignment)
+Project Link: [GitHub](https://github.com/jasraj1111/Bynry_Assignment)
