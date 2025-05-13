@@ -102,13 +102,6 @@ src/
 - Profile management tools
 - Data validation and error handling
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
@@ -122,6 +115,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - Jasraj Shendge
+Email ID: jasrajshen2020@gmail.com
 
-Project Link: [https://github.com/yourusername/profile-map-explorer](https://github.com/yourusername/profile-map-explorer)
+Project Link: [https://github.com/yourusername/profile-map-explorer](https://github.com/jasraj1111/Bynry_Assignment)
